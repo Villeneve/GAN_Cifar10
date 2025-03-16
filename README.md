@@ -11,4 +11,4 @@ Durante o treinamento, a função de perda se manteve relativamente estável, ma
 ## 🏎️ Imagens Geradas  
 As imagens abaixo foram geradas pela rede em sua última etapa de treinamento. É possível identificar características de carros, embora ainda seja perceptível o efeito de **distorção** comum em geradores pouco treinados ou com arquitetura limitada.  
 
-![Último resultado](imgs/fig4356.png)  
+![Último resultado](imgs/fig2780.png)  
